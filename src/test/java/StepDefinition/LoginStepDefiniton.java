@@ -8,7 +8,6 @@ import BaseClass.BaseClass;
 import Hooks.Hooks;
 import PageObject.LoginPage;
 import UitilltyFiles.ExcelUtils;
-import io.cucumber.java.an.E;
 import io.cucumber.java.en.*;
 
 public class LoginStepDefiniton {
@@ -30,6 +29,7 @@ public class LoginStepDefiniton {
 		String emailString = ExcelUtils.getCellData(fileEmail, "sheet1", Integer.parseInt(emailIndex), 0);
 		boolean result = login.EmailValidation(emailString);
 		ExcelUtils.setCellData(fileIO, "email", i, 0,emailString);
+		System.out.println("Email: "+emailString);
 		 if(!result) {
 				BaseClass.getLogger().error("Unable to Enter Email Entered");
 			}else{
@@ -47,8 +47,7 @@ public class LoginStepDefiniton {
 				BaseClass.getLogger().info("Clicked on Next Button");
 			}
 		assertEquals(result, true);
-	   
-	   
+	    
 	}
 	
 	@Then("capture the error message")
@@ -58,7 +57,7 @@ public class LoginStepDefiniton {
 		 if(result==null) {
 				BaseClass.getLogger().error("Unable to capture Error message");
 			}else{
-
+				System.out.println("Error message: "+result);
 				ExcelUtils.setCellData(fileIO, "email", i, 2,result);
 				ExcelUtils.setCellData(fileIO, "email", i,3,(result.equals(ExcelUtils.getCellData(fileIO, "email", i, 1)))?"PASS":"FAIL") ;
 				BaseClass.getLogger().info("Error message capture was successful");

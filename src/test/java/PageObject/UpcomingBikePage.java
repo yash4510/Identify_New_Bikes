@@ -7,6 +7,7 @@ import java.util.List;
 
 import org.apache.logging.log4j.core.appender.rolling.action.IfAccumulatedFileCount;
 import org.apache.xmlbeans.impl.xb.xsdschema.Public;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -32,12 +33,22 @@ public class UpcomingBikePage extends BasePage {
 	List<String> priceNameList = new ArrayList<String>();
 	List<String> carNameList = new ArrayList<String>();
 	
-	@FindBy(xpath="//div[@id='scrollResult']//span[contains(normalize-space(),'Load More')]") static WebElement loadMore;
-	@FindBy(xpath = "(//select)[1]") static WebElement brand;
-	@FindBy(xpath = "//a[contains(@title,'Honda')]/following-sibling::div/div[1]/div[1]") static List<WebElement> BikePrice;
-	@FindBy(xpath="//div[@id='scrollResult']//a[contains(@title,'Honda')]") static List<WebElement> bikeName;
-	@FindBy(xpath="//li[contains(@id,'menuusedcars')]") WebElement UsedCars;
-	@FindBy(xpath = "(//span[contains(normalize-space(),'Chennai')])[1]") WebElement usedCarsCHN;
+	@FindBy(xpath="//div[@id='scrollResult']//li/div//img[contains(@title,'Honda')][1]") 
+	WebElement bikeVisibilty;
+	@FindBy(xpath="//div[@id='scrollResult']//span[contains(normalize-space(),'Load More')]")
+	WebElement loadMore;
+	@FindBy(xpath = "(//select)[1]") 
+	WebElement brand;
+	@FindBy(xpath = "//a[contains(@title,'Honda')]/following-sibling::div/div[1]/div[1]") 
+	List<WebElement> BikePrice;
+	@FindBy(xpath="//div[@id='scrollResult']//a[contains(@title,'Honda')]") 
+	List<WebElement> bikeName;
+	@FindBy(xpath="//li[contains(@id,'menuusedcars')]") 
+	WebElement UsedCars;
+	@FindBy(xpath = "(//span[contains(normalize-space(),'Chennai')])[1]") 
+	WebElement usedCarsCHN;
+	@FindBy(xpath="//span[normalize-space()='Read more']") 
+	WebElement readMore;
 	
 	
 	public UpcomingBikePage(WebDriver driver) {
@@ -67,7 +78,7 @@ public class UpcomingBikePage extends BasePage {
 			if(brand.isDisplayed()) {
 				Select chooseBike = new Select(brand);
 				chooseBike.selectByVisibleText("Honda");
-				Thread.sleep(1000);
+				wait.until(ExpectedConditions.visibilityOf(bikeVisibilty));
 				return true;
 			}
 		}catch (Exception e) {e.printStackTrace();}
@@ -163,8 +174,8 @@ public class UpcomingBikePage extends BasePage {
 	//select the "User cars in Chennai" option from the menu
 	public boolean clickOnUsedCarsChennai() {
 		//wait for the element to be displayed
-		wait.until(ExpectedConditions.visibilityOf(usedCarsCHN));
 		try {
+			wait.until(ExpectedConditions.visibilityOf(usedCarsCHN));
 			if(usedCarsCHN.isDisplayed()){
 				ho.highlight(usedCarsCHN);
 				sc.screenShot("UsedInChennai");
@@ -180,6 +191,7 @@ public class UpcomingBikePage extends BasePage {
 	
 	//get the title of the next page
 	public boolean navigateToUsedCars(){
+		wait.until(ExpectedConditions.visibilityOf(readMore));
 		return driver.getTitle().contains("Used Cars");
 	}
 	

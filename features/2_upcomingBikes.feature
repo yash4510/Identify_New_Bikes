@@ -2,11 +2,11 @@ Feature: Upcoming Bike Page Interaction
 
   Scenario: Select a specific brand from the brand dropdown
     Given the user is on the Upcoming Bikes page
-    When the user selects the "Honda" brand from the dropdown
-    Then only "Honda" bikes should be displayed on the list
+    When the user selects the Honda brand from the dropdown
+    Then only Honda bikes should be displayed on the list
 
   Scenario: Load more bikes
-    When the user clicks on the "Load More" button
+    When the user clicks on the Load More button
     Then All bikes should be displayed on the page
    
 

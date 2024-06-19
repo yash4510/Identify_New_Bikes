@@ -22,8 +22,8 @@ public class UpcomingBikeStrpDefinition {
 	    
 	}
 
-	@When("the user selects the {string} brand from the dropdown")
-	public void the_user_selects_the_brand_from_the_dropdown(String string) {
+	@When("the user selects the Honda brand from the dropdown")
+	public void the_user_selects_the_brand_from_the_dropdown() {
 		
 		boolean result  = bike.clickOnChooseBrand();
 	    if(!result) {
@@ -35,26 +35,28 @@ public class UpcomingBikeStrpDefinition {
 		assertEquals(result, true);
 	}
 
-	@Then("only {string} bikes should be displayed on the list")
-	public void the_dropdown_should_reflect_as_the_selected_brand(String string) {
+	@Then("only Honda bikes should be displayed on the list")
+	public void the_dropdown_should_reflect_as_the_selected_brand() {
 		
 		boolean result  = bike.chooseBrand();
 	    if(!result) {
 			BaseClass.getLogger().error("Brand is Not selected");
 		}else{
+			System.out.println("Honda got selected");
 			BaseClass.getLogger().info("Brand is selected");
 		}
 		assertEquals(result, true);
 	}
 
 
-	@When("the user clicks on the {string} button")
-	public void the_user_clicks_on_the_button(String string) throws InterruptedException {
+	@When("the user clicks on the Load More button")
+	public void the_user_clicks_on_the_button() throws InterruptedException {
 	
 		String resultString  = bike.displayAllBikes();
 	    if(!resultString.equals("loaded")) {
 			BaseClass.getLogger().error("Bikes is Not Displayed");
 		}else{
+			System.out.println("Loded More Bikes");
 			BaseClass.getLogger().info("Bikes is Displayed");
 		}
 		assertEquals(resultString,"loaded" );
@@ -64,6 +66,7 @@ public class UpcomingBikeStrpDefinition {
 	@Then("All bikes should be displayed on the page")
 	public void additional_bikes_should_be_displayed_on_the_page() throws InterruptedException {
 		int length = bike.getBikeSize();
+		System.out.println("All Bikes on the Specific Brand:");
 		for(int i=0;i<length;i++) {
 			String bikeName = bike.getAllBikeNames(i);
 			if(!bikeName.equals("")) {
@@ -94,7 +97,6 @@ public class UpcomingBikeStrpDefinition {
 	@Then("bikes priced under {string} lakhs should be fetched")
 	public void bikes_priced_under_lakhs_should_be_fetched(String string) {
 		
-		
 	    if(Double.parseDouble(string)>0.00) {
 			BaseClass.getLogger().info(string+" price is set");
 			bike.setPrice(Double.parseDouble(string));
@@ -110,6 +112,7 @@ public class UpcomingBikeStrpDefinition {
 	public void the_details_should_include_the_name_and_price() throws IOException {
 		int length = bike.getBikeSize();
 		int j = 1;
+		System.out.println("Displayed Bikes on the Specified Price with the selected Brand");
 		for(int i = 0;i<length;i++) {
 			String bikeResult  = bike.FetchBikeDetails(i);
 			if(bikeResult!=null) {

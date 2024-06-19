@@ -22,6 +22,8 @@ public class HomePage extends BasePage {
 	WebElement bikeMenu;
 	@FindBy(xpath = "//li[contains(@id,'submenu')]/a[contains(@title,'Upcoming Bikes')]")
 	WebElement upcomingBikes;
+	@FindBy(xpath = "(//select)[1]") 
+	WebElement brand;
 
 	public HomePage(WebDriver driver) {
 		super(driver);
@@ -89,6 +91,7 @@ public class HomePage extends BasePage {
 
 	//getting the title of the upcoming page.
 	public boolean getUpcomingPage() throws IOException {
+		wait.until(ExpectedConditions.visibilityOf(brand));
 		return driver.getTitle().contains("Upcoming Bikes");
 	}
 

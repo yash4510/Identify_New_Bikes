@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 import java.io.IOException;
 
+import org.bouncycastle.pqc.jcajce.provider.BIKE;
+
 import BaseClass.BaseClass;
 import PageObject.HomePage;
 import io.cucumber.java.en.*;
@@ -63,6 +65,7 @@ public class HomeStepDefiniton {
 	    if(!resultString.equals("Bikes")) {
 			BaseClass.getLogger().error("Not Hovered on Bike Menu ");
 		}else{
+			System.out.println("Bike Menu Selected");
 			BaseClass.getLogger().info("Hovered on Bike Menu");
 		}
 	     assertEquals(resultString, "Bikes");
@@ -74,6 +77,7 @@ public class HomeStepDefiniton {
 	    
 	    boolean result  = home.navigateToUpcomingBikes();
 	    if(!result) {
+	    	System.out.println("UpcomingBike Menu Selected");
 			BaseClass.getLogger().error("Not clicked on Upcoming Bike ");
 		}else{
 			BaseClass.getLogger().info("Cilcked on Upcoming Bikes");

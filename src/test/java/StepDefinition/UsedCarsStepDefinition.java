@@ -37,6 +37,7 @@ public class UsedCarsStepDefinition {
 	public void the_popular_cars_should_be_displayed() throws IOException {
 		int length = cars.getCarSize();
 		int j=1;
+		System.out.println("Fetching Popular Cars");
 		for(int i = 0;i<length;i++) {
 			String carsName = cars.fetchPopularCars(i);
 			if(!carsName.equals("")) {

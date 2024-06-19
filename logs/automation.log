@@ -1,398 +1,503 @@
-21:11:45.952 [main] INFO  - Redirection to Used cars Page Not Sucessfull
-21:11:45.976 [main] INFO  - **********************USED CAR PAGE*********************
-21:11:46.258 [main] INFO  - Load-More got Clicked
-21:11:46.552 [main] INFO  - Maruti Alto K10 ---> Entry Sucess
-21:11:46.680 [main] INFO  - Tata NEXON ---> Entry Sucess
-21:11:46.809 [main] INFO  - Renault TRIBER ---> Entry Sucess
-21:11:46.944 [main] INFO  - KIA SONET ---> Entry Sucess
-21:11:47.082 [main] INFO  - Nissan MAGNITE ---> Entry Sucess
-21:11:47.391 [main] INFO  - user got clicked
-21:11:58.091 [main] INFO  - ***********************Login Page***********************
-21:11:58.227 [main] INFO  - ***********************Login Page***********************
-21:11:58.370 [main] INFO  - ***********************Login Page***********************
-21:11:58.504 [main] INFO  - ***********************Login Page***********************
-21:11:58.655 [main] INFO  - ***********************Login Page***********************
-21:11:58.797 [main] INFO  - ***********************Login Page***********************
-21:11:58.940 [main] INFO  - ***********************Login Page***********************
-21:11:59.142 [main] INFO  - ***********************Login Page***********************
-21:11:59.345 [main] INFO  - ***********************Login Page***********************
-21:18:18.918 [main] INFO  - Driver is created suceesfully
-21:18:22.964 [main] INFO  - *******************HOME PAGE*********************
-21:18:33.018 [main] ERROR - Push Notification is not displayed
-21:18:33.883 [main] INFO  - Hovered on Bike Menu
-21:18:35.507 [main] INFO  - Cilcked on Upcoming Bikes
-21:18:35.526 [main] INFO  - Navigate to Next Page is Sucessful
-21:18:35.581 [main] INFO  - ********************UPCOMING BIKES**********************
-21:18:36.093 [main] INFO  - selected the choose brand
-21:18:37.615 [main] INFO  - Brand is selected
-21:18:50.091 [main] INFO  - Bikes is Displayed
-21:18:50.579 [main] INFO  - Honda CBR300R is displayed
-21:18:50.628 [main] INFO  - Honda Rebel 500 is displayed
-21:18:50.672 [main] INFO  - Honda CBR1000R is displayed
-21:18:50.716 [main] INFO  - Honda CB500F is displayed
-21:18:50.769 [main] INFO  - Honda CBR500R is displayed
-21:18:50.829 [main] INFO  - Honda CRF190L is displayed
-21:18:50.872 [main] INFO  - Honda CBR150R is displayed
-21:18:50.917 [main] INFO  - Honda NT1100 is displayed
-21:18:50.958 [main] INFO  - Honda Rebel 300 is displayed
-21:18:51.000 [main] INFO  - Honda NX200 is displayed
-21:18:51.042 [main] INFO  - Honda Hawk 11 is displayed
-21:18:51.084 [main] INFO  - Honda CB350 Cafe Racer is displayed
-21:18:51.130 [main] INFO  - Honda Rebel 1100 is displayed
-21:18:51.172 [main] INFO  - Honda CRF300L is displayed
-21:18:51.214 [main] INFO  - Honda Hornet is displayed
-21:18:51.255 [main] INFO  - Honda XRE 300 is displayed
-21:18:51.297 [main] INFO  - Honda CRF300 Rally is displayed
-21:18:51.335 [main] INFO  - Bikes are visible
-21:18:51.358 [main] INFO  - 4.00 price is set
-21:18:52.273 [main] INFO  - Honda CBR300R :- ?2.00 - ? 2.30 ---> Entry Successful
-21:18:52.323 [main] ERROR - Entry Failed
-21:18:52.366 [main] ERROR - Entry Failed
-21:18:52.409 [main] ERROR - Entry Failed
-21:18:52.448 [main] ERROR - Entry Failed
-21:18:52.817 [main] INFO  - Honda CRF190L :- ?1.98 ---> Entry Successful
-21:18:53.164 [main] INFO  - Honda CBR150R :- ?1.70 ---> Entry Successful
-21:18:53.509 [main] INFO  - Honda NT1100 :- ?1.70 ---> Entry Successful
-21:18:53.858 [main] INFO  - Honda Rebel 300 :- ?2.30 ---> Entry Successful
-21:18:54.232 [main] INFO  - Honda NX200 :- ?1.20 ---> Entry Successful
-21:18:54.277 [main] ERROR - Entry Failed
-21:18:54.608 [main] INFO  - Honda CB350 Cafe Racer :- ?2.20 - ? 2.30 ---> Entry Successful
-21:18:54.651 [main] ERROR - Entry Failed
-21:18:55.079 [main] INFO  - Honda CRF300L :- ?3.00 ---> Entry Successful
-21:18:55.416 [main] INFO  - Honda Hornet :- ?2.50 ---> Entry Successful
-21:18:55.773 [main] INFO  - Honda XRE 300 :- ?3.00 ---> Entry Successful
-21:18:56.092 [main] INFO  - Honda CRF300 Rally :- ?3.50 ---> Entry Successful
-21:18:56.581 [main] INFO  - Hovered on Used-Cars Menu
-21:19:00.078 [main] INFO  - Clicked on Used-Cars-Chennai Menu
-21:19:00.101 [main] INFO  - Redirection to Used cars Page Not Sucessfull
-21:19:00.123 [main] INFO  - **********************USED CAR PAGE*********************
-21:19:00.422 [main] INFO  - Load-More got Clicked
-21:19:00.812 [main] INFO  - Maruti Alto K10 ---> Entry Sucess
-21:19:00.974 [main] INFO  - Tata NEXON ---> Entry Sucess
-21:19:01.126 [main] INFO  - Renault TRIBER ---> Entry Sucess
-21:19:01.320 [main] INFO  - KIA SONET ---> Entry Sucess
-21:19:01.509 [main] INFO  - Nissan MAGNITE ---> Entry Sucess
-21:19:01.833 [main] INFO  - user got clicked
-21:19:01.971 [main] INFO  - sigin in pop displayed
-21:19:05.330 [main] INFO  - clicked on the sigin in Button
-21:19:05.366 [main] INFO  - ***********************Login Page***********************
-21:19:05.865 [main] INFO  - Email got Entered
-21:19:06.138 [main] INFO  - Clicked on Next Button
-21:19:06.627 [main] INFO  - Error message capture was successful
-21:19:06.655 [main] INFO  - ***********************Login Page***********************
-21:19:07.208 [main] INFO  - Email got Entered
-21:19:07.405 [main] INFO  - Clicked on Next Button
-21:19:07.949 [main] INFO  - Error message capture was successful
-21:19:07.974 [main] INFO  - ***********************Login Page***********************
-21:19:08.480 [main] INFO  - Email got Entered
-21:19:08.636 [main] INFO  - Clicked on Next Button
-21:19:09.147 [main] INFO  - Error message capture was successful
-21:19:09.180 [main] INFO  - ***********************Login Page***********************
-21:19:09.716 [main] INFO  - Email got Entered
-21:19:09.901 [main] INFO  - Clicked on Next Button
-21:19:10.372 [main] INFO  - Error message capture was successful
-21:19:10.404 [main] INFO  - ***********************Login Page***********************
-21:19:10.963 [main] INFO  - Email got Entered
-21:19:11.178 [main] INFO  - Clicked on Next Button
-21:19:11.623 [main] INFO  - Error message capture was successful
-21:19:11.650 [main] INFO  - ***********************Login Page***********************
-21:19:12.172 [main] INFO  - Email got Entered
-21:19:12.391 [main] INFO  - Clicked on Next Button
-21:19:12.890 [main] INFO  - Error message capture was successful
-21:19:12.915 [main] INFO  - ***********************Login Page***********************
-21:19:13.386 [main] INFO  - Email got Entered
-21:19:13.595 [main] INFO  - Clicked on Next Button
-21:19:14.085 [main] INFO  - Error message capture was successful
-21:19:14.114 [main] INFO  - ***********************Login Page***********************
-21:19:14.659 [main] INFO  - Email got Entered
-21:19:14.878 [main] INFO  - Clicked on Next Button
-21:19:15.789 [main] INFO  - Error message capture was successful
-21:19:15.816 [main] INFO  - ***********************Login Page***********************
-21:19:16.237 [main] INFO  - Email got Entered
-21:19:16.459 [main] INFO  - Clicked on Next Button
-21:19:16.882 [main] INFO  - Error message capture was successful
-07:35:52.446 [main] INFO  - Driver is created suceesfully
-07:35:55.379 [main] INFO  - *******************HOME PAGE*********************
-07:36:05.455 [main] ERROR - Push Notification is not displayed
-07:36:06.124 [main] INFO  - Hovered on Bike Menu
-07:36:07.979 [main] INFO  - Cilcked on Upcoming Bikes
-07:36:07.997 [main] INFO  - Navigate to Next Page is Sucessful
-07:36:08.047 [main] INFO  - ********************UPCOMING BIKES**********************
-07:36:08.655 [main] INFO  - selected the choose brand
-07:36:10.246 [main] INFO  - Brand is selected
-07:36:22.752 [main] INFO  - Bikes is Displayed
-07:36:22.993 [main] INFO  - Honda CBR300R is displayed
-07:36:23.022 [main] INFO  - Honda CBR1000R is displayed
-07:36:23.051 [main] INFO  - Honda CB500F is displayed
-07:36:23.079 [main] INFO  - Honda Rebel 500 is displayed
-07:36:23.107 [main] INFO  - Honda CBR500R is displayed
-07:36:23.134 [main] INFO  - Honda CRF190L is displayed
-07:36:23.155 [main] INFO  - Honda CBR150R is displayed
-07:36:23.176 [main] INFO  - Honda NT1100 is displayed
-07:36:23.198 [main] INFO  - Honda Rebel 300 is displayed
-07:36:23.218 [main] INFO  - Honda Rebel 1100 is displayed
-07:36:23.244 [main] INFO  - Honda NX200 is displayed
-07:36:23.268 [main] INFO  - Honda CRF300L is displayed
-07:36:23.286 [main] INFO  - Honda Hornet is displayed
-07:36:23.310 [main] INFO  - Honda XRE 300 is displayed
-07:36:23.331 [main] INFO  - Honda Hawk 11 is displayed
-07:36:23.355 [main] INFO  - Honda CB350 Cafe Racer is displayed
-07:36:23.378 [main] INFO  - Honda CRF300 Rally is displayed
-07:36:23.402 [main] INFO  - Bikes are visible
-07:36:23.416 [main] INFO  - 4.00 price is set
-07:36:24.022 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
-07:36:24.070 [main] ERROR - Entry Failed
-07:36:24.115 [main] ERROR - Entry Failed
-07:36:24.156 [main] ERROR - Entry Failed
-07:36:24.198 [main] ERROR - Entry Failed
-07:36:24.653 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
-07:36:25.190 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
-07:36:25.648 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
-07:36:26.037 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
-07:36:26.126 [main] ERROR - Entry Failed
-07:36:26.512 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
-07:36:26.945 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
-07:36:27.293 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
-07:36:27.630 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
-07:36:27.664 [main] ERROR - Entry Failed
-07:36:27.996 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
-07:36:28.295 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
-07:36:28.913 [main] INFO  - Hovered on Used-Cars Menu
-07:36:32.461 [main] INFO  - Clicked on Used-Cars-Chennai Menu
-07:36:32.487 [main] INFO  - Redirection to Used cars Page Not Sucessfull
-07:36:32.515 [main] INFO  - **********************USED CAR PAGE*********************
-07:36:32.751 [main] INFO  - Load-More got Clicked
-07:36:33.222 [main] INFO  - Honda Amaze ---> Entry Sucess
-07:36:33.416 [main] INFO  - Maruti Alto K10 ---> Entry Sucess
-07:36:33.573 [main] INFO  - Tata NEXON ---> Entry Sucess
-07:36:33.710 [main] INFO  - Renault TRIBER ---> Entry Sucess
-07:36:33.846 [main] INFO  - KIA SONET ---> Entry Sucess
-07:36:34.322 [main] INFO  - user got clicked
-07:36:34.519 [main] INFO  - sigin in pop displayed
-07:36:38.236 [main] INFO  - clicked on the sigin in Button
-07:36:38.266 [main] INFO  - ***********************Login Page***********************
-07:36:38.920 [main] INFO  - Email got Entered
-07:36:39.698 [main] INFO  - Clicked on Next Button
-07:36:40.474 [main] INFO  - Error message capture was successful
-07:36:40.514 [main] INFO  - ***********************Login Page***********************
-07:36:41.123 [main] INFO  - Email got Entered
-07:36:41.335 [main] INFO  - Clicked on Next Button
-07:36:41.821 [main] INFO  - Error message capture was successful
-07:36:41.865 [main] INFO  - ***********************Login Page***********************
-07:36:42.386 [main] INFO  - Email got Entered
-07:36:42.520 [main] INFO  - Clicked on Next Button
-07:36:42.957 [main] INFO  - Error message capture was successful
-07:36:43.022 [main] INFO  - ***********************Login Page***********************
-07:36:43.687 [main] INFO  - Email got Entered
-07:36:43.948 [main] INFO  - Clicked on Next Button
-07:36:44.540 [main] INFO  - Error message capture was successful
-07:36:44.599 [main] INFO  - ***********************Login Page***********************
-07:36:45.347 [main] INFO  - Email got Entered
-07:36:45.608 [main] INFO  - Clicked on Next Button
-07:36:46.232 [main] INFO  - Error message capture was successful
-07:36:46.294 [main] INFO  - ***********************Login Page***********************
-07:36:47.046 [main] INFO  - Email got Entered
-07:36:47.279 [main] INFO  - Clicked on Next Button
-07:36:47.837 [main] INFO  - Error message capture was successful
-07:36:47.880 [main] INFO  - ***********************Login Page***********************
-07:36:48.409 [main] INFO  - Email got Entered
-07:36:48.598 [main] INFO  - Clicked on Next Button
-07:36:49.196 [main] INFO  - Error message capture was successful
-07:36:49.273 [main] INFO  - ***********************Login Page***********************
-07:36:49.869 [main] INFO  - Email got Entered
-07:36:50.077 [main] INFO  - Clicked on Next Button
-07:36:50.634 [main] INFO  - Error message capture was successful
-07:36:50.690 [main] INFO  - ***********************Login Page***********************
-07:36:51.209 [main] INFO  - Email got Entered
-07:36:51.400 [main] INFO  - Clicked on Next Button
-07:36:51.966 [main] INFO  - Error message capture was successful
-07:38:47.787 [main] INFO  - Driver is created suceesfully
-07:38:52.625 [main] INFO  - *******************HOME PAGE*********************
-07:39:02.685 [main] ERROR - Push Notification is not displayed
-07:39:03.381 [main] INFO  - Hovered on Bike Menu
-07:39:04.989 [main] INFO  - Cilcked on Upcoming Bikes
-07:39:05.009 [main] INFO  - Navigate to Next Page is Sucessful
-07:39:05.085 [main] INFO  - ********************UPCOMING BIKES**********************
-07:39:05.845 [main] INFO  - selected the choose brand
-07:39:07.253 [main] INFO  - Brand is selected
-07:39:19.788 [main] INFO  - Bikes is Displayed
-07:39:20.281 [main] INFO  - Honda CBR300R is displayed
-07:39:20.315 [main] INFO  - Honda CBR1000R is displayed
-07:39:20.354 [main] INFO  - Honda CB500F is displayed
-07:39:20.399 [main] INFO  - Honda Rebel 500 is displayed
-07:39:20.428 [main] INFO  - Honda CBR500R is displayed
-07:39:20.466 [main] INFO  - Honda CRF190L is displayed
-07:39:20.507 [main] INFO  - Honda CBR150R is displayed
-07:39:20.555 [main] INFO  - Honda NT1100 is displayed
-07:39:20.597 [main] INFO  - Honda Rebel 300 is displayed
-07:39:20.640 [main] INFO  - Honda Rebel 1100 is displayed
-07:39:20.680 [main] INFO  - Honda NX200 is displayed
-07:39:20.716 [main] INFO  - Honda CRF300L is displayed
-07:39:20.750 [main] INFO  - Honda Hornet is displayed
-07:39:20.789 [main] INFO  - Honda XRE 300 is displayed
-07:39:20.838 [main] INFO  - Honda Hawk 11 is displayed
-07:39:20.892 [main] INFO  - Honda CB350 Cafe Racer is displayed
-07:39:20.938 [main] INFO  - Honda CRF300 Rally is displayed
-07:39:20.979 [main] INFO  - Bikes are visible
-07:39:21.002 [main] INFO  - 4.00 price is set
-07:39:21.865 [main] INFO  - Honda CBR300R :- ?2.00 - ? 2.30 ---> Entry Successful
-07:39:21.903 [main] ERROR - Entry Failed
-07:39:21.943 [main] ERROR - Entry Failed
-07:39:21.982 [main] ERROR - Entry Failed
-07:39:22.022 [main] ERROR - Entry Failed
-07:39:22.399 [main] INFO  - Honda CRF190L :- ?1.98 ---> Entry Successful
-07:39:22.743 [main] INFO  - Honda CBR150R :- ?1.70 ---> Entry Successful
-07:39:23.077 [main] INFO  - Honda NT1100 :- ?1.70 ---> Entry Successful
-07:39:23.366 [main] INFO  - Honda Rebel 300 :- ?2.30 ---> Entry Successful
-07:39:23.413 [main] ERROR - Entry Failed
-07:39:23.797 [main] INFO  - Honda NX200 :- ?1.20 ---> Entry Successful
-07:39:24.127 [main] INFO  - Honda CRF300L :- ?3.00 ---> Entry Successful
-07:39:24.480 [main] INFO  - Honda Hornet :- ?2.50 ---> Entry Successful
-07:39:24.839 [main] INFO  - Honda XRE 300 :- ?3.00 ---> Entry Successful
-07:39:24.881 [main] ERROR - Entry Failed
-07:39:25.200 [main] INFO  - Honda CB350 Cafe Racer :- ?2.20 - ? 2.30 ---> Entry Successful
-07:39:25.470 [main] INFO  - Honda CRF300 Rally :- ?3.50 ---> Entry Successful
-07:39:25.844 [main] INFO  - Hovered on Used-Cars Menu
-07:39:29.240 [main] INFO  - Clicked on Used-Cars-Chennai Menu
-07:39:29.259 [main] INFO  - Redirection to Used cars Page Not Sucessfull
-07:39:29.282 [main] INFO  - **********************USED CAR PAGE*********************
-07:39:29.591 [main] INFO  - Load-More got Clicked
-07:39:30.015 [main] INFO  - Honda Amaze ---> Entry Sucess
-07:39:30.203 [main] INFO  - Maruti Alto K10 ---> Entry Sucess
-07:39:30.374 [main] INFO  - Tata NEXON ---> Entry Sucess
-07:39:30.561 [main] INFO  - Renault TRIBER ---> Entry Sucess
-07:39:30.731 [main] INFO  - KIA SONET ---> Entry Sucess
-07:39:31.125 [main] INFO  - user got clicked
-07:39:31.279 [main] INFO  - sigin in pop displayed
-07:39:34.776 [main] INFO  - clicked on the sigin in Button
-07:39:34.819 [main] INFO  - ***********************Login Page***********************
-07:39:35.476 [main] INFO  - Email got Entered
-07:39:35.876 [main] INFO  - Clicked on Next Button
-07:39:36.406 [main] INFO  - Error message capture was successful
-07:39:36.437 [main] INFO  - ***********************Login Page***********************
-07:39:37.146 [main] INFO  - Email got Entered
-07:39:37.367 [main] INFO  - Clicked on Next Button
-07:39:37.872 [main] INFO  - Error message capture was successful
-07:39:37.895 [main] INFO  - ***********************Login Page***********************
-07:39:38.313 [main] INFO  - Email got Entered
-07:39:38.496 [main] INFO  - Clicked on Next Button
-07:39:39.016 [main] INFO  - Error message capture was successful
-07:39:39.044 [main] INFO  - ***********************Login Page***********************
-07:39:39.556 [main] INFO  - Email got Entered
-07:39:39.773 [main] INFO  - Clicked on Next Button
-07:39:40.272 [main] INFO  - Error message capture was successful
-07:39:40.297 [main] INFO  - ***********************Login Page***********************
-07:39:40.929 [main] INFO  - Email got Entered
-07:39:41.144 [main] INFO  - Clicked on Next Button
-07:39:41.798 [main] INFO  - Error message capture was successful
-07:39:41.825 [main] INFO  - ***********************Login Page***********************
-07:39:42.313 [main] INFO  - Email got Entered
-07:39:42.516 [main] INFO  - Clicked on Next Button
-07:39:43.097 [main] INFO  - Error message capture was successful
-07:39:43.123 [main] INFO  - ***********************Login Page***********************
-07:39:43.513 [main] INFO  - Email got Entered
-07:39:43.685 [main] INFO  - Clicked on Next Button
-07:39:44.132 [main] INFO  - Error message capture was successful
-07:39:44.162 [main] INFO  - ***********************Login Page***********************
-07:39:44.579 [main] INFO  - Email got Entered
-07:39:44.735 [main] INFO  - Clicked on Next Button
-07:39:45.182 [main] INFO  - Error message capture was successful
-07:39:45.215 [main] INFO  - ***********************Login Page***********************
-07:39:45.618 [main] INFO  - Email got Entered
-07:39:45.853 [main] INFO  - Clicked on Next Button
-07:39:46.326 [main] INFO  - Error message capture was successful
-10:56:34.241 [main] INFO  - Driver is created suceesfully
-10:56:38.088 [main] INFO  - *******************HOME PAGE*********************
-10:56:48.162 [main] ERROR - Push Notification is not displayed
-10:56:48.860 [main] INFO  - Hovered on Bike Menu
-10:56:50.474 [main] INFO  - Cilcked on Upcoming Bikes
-10:56:50.484 [main] INFO  - Navigate to Next Page is Sucessful
-10:56:50.552 [main] INFO  - ********************UPCOMING BIKES**********************
-10:56:51.112 [main] INFO  - selected the choose brand
-10:56:52.356 [main] INFO  - Brand is selected
-10:57:04.766 [main] INFO  - Bikes is Displayed
-10:57:05.005 [main] INFO  - Honda CBR500R is displayed
-10:57:05.025 [main] INFO  - Honda CBR150R is displayed
-10:57:05.044 [main] INFO  - Honda Rebel 300 is displayed
-10:57:05.061 [main] INFO  - Honda NX200 is displayed
-10:57:05.079 [main] INFO  - Honda Hornet is displayed
-10:57:05.098 [main] INFO  - Honda XRE 300 is displayed
-10:57:05.118 [main] INFO  - Honda CBR300R is displayed
-10:57:05.136 [main] INFO  - Honda CBR1000R is displayed
-10:57:05.155 [main] INFO  - Honda CB500F is displayed
-10:57:05.174 [main] INFO  - Honda Rebel 500 is displayed
-10:57:05.192 [main] INFO  - Honda NT1100 is displayed
-10:57:05.211 [main] INFO  - Honda Rebel 1100 is displayed
-10:57:05.231 [main] INFO  - Honda CRF300L is displayed
-10:57:05.252 [main] INFO  - Honda Hawk 11 is displayed
-10:57:05.275 [main] INFO  - Honda CB350 Cafe Racer is displayed
-10:57:05.294 [main] INFO  - Honda CRF300 Rally is displayed
-10:57:05.314 [main] INFO  - Honda CRF190L is displayed
-10:57:05.334 [main] INFO  - Bikes are visible
-10:57:05.345 [main] INFO  - 4.00 price is set
-10:57:05.520 [main] ERROR - Entry Failed
-10:57:05.806 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
-10:57:06.050 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
-10:57:06.317 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
-10:57:06.578 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
-10:57:06.810 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
-10:57:07.064 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
-10:57:07.095 [main] ERROR - Entry Failed
-10:57:07.122 [main] ERROR - Entry Failed
-10:57:07.146 [main] ERROR - Entry Failed
-10:57:07.380 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
-10:57:07.413 [main] ERROR - Entry Failed
-10:57:07.654 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
-10:57:07.691 [main] ERROR - Entry Failed
-10:57:07.999 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
-10:57:08.243 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
-10:57:08.480 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
-10:57:08.846 [main] INFO  - Hovered on Used-Cars Menu
-10:57:12.333 [main] INFO  - Clicked on Used-Cars-Chennai Menu
-10:57:12.343 [main] INFO  - Redirection to Used cars Page Not Sucessfull
-10:57:12.390 [main] INFO  - **********************USED CAR PAGE*********************
-10:57:12.557 [main] INFO  - Load-More got Clicked
-10:57:12.894 [main] INFO  - Hyundai Elite i20 ---> Entry Sucess
-10:57:13.000 [main] INFO  - Maruti Eeco ---> Entry Sucess
-10:57:13.102 [main] INFO  - Hyundai Grand i10 ---> Entry Sucess
-10:57:13.216 [main] INFO  - Honda Amaze ---> Entry Sucess
-10:57:13.332 [main] INFO  - Maruti Alto K10 ---> Entry Sucess
-10:57:13.609 [main] INFO  - user got clicked
-10:57:13.890 [main] INFO  - sigin in pop displayed
-10:57:17.381 [main] INFO  - clicked on the sigin in Button
-10:57:17.421 [main] INFO  - ***********************Login Page***********************
-10:57:17.824 [main] INFO  - Email got Entered
-10:57:18.523 [main] INFO  - Clicked on Next Button
-10:57:19.048 [main] INFO  - Error message capture was successful
-10:57:19.080 [main] INFO  - ***********************Login Page***********************
-10:57:19.516 [main] INFO  - Email got Entered
-10:57:19.649 [main] INFO  - Clicked on Next Button
-10:57:20.215 [main] INFO  - Error message capture was successful
-10:57:20.246 [main] INFO  - ***********************Login Page***********************
-10:57:20.581 [main] INFO  - Email got Entered
-10:57:20.703 [main] INFO  - Clicked on Next Button
-10:57:21.077 [main] INFO  - Error message capture was successful
-10:57:21.107 [main] INFO  - ***********************Login Page***********************
-10:57:21.459 [main] INFO  - Email got Entered
-10:57:21.574 [main] INFO  - Clicked on Next Button
-10:57:22.028 [main] INFO  - Error message capture was successful
-10:57:22.050 [main] INFO  - ***********************Login Page***********************
-10:57:22.447 [main] INFO  - Email got Entered
-10:57:22.594 [main] INFO  - Clicked on Next Button
-10:57:23.064 [main] INFO  - Error message capture was successful
-10:57:23.096 [main] INFO  - ***********************Login Page***********************
-10:57:23.521 [main] INFO  - Email got Entered
-10:57:23.643 [main] INFO  - Clicked on Next Button
-10:57:24.069 [main] INFO  - Error message capture was successful
-10:57:24.100 [main] INFO  - ***********************Login Page***********************
-10:57:24.437 [main] INFO  - Email got Entered
-10:57:24.541 [main] INFO  - Clicked on Next Button
-10:57:24.963 [main] INFO  - Error message capture was successful
-10:57:24.995 [main] INFO  - ***********************Login Page***********************
-10:57:25.355 [main] INFO  - Email got Entered
-10:57:25.503 [main] INFO  - Clicked on Next Button
-10:57:25.954 [main] INFO  - Error message capture was successful
-10:57:25.991 [main] INFO  - ***********************Login Page***********************
-10:57:26.360 [main] INFO  - Email got Entered
-10:57:26.490 [main] INFO  - Clicked on Next Button
-10:57:26.952 [main] INFO  - Error message capture was successful
+14:19:45.583 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
+14:19:45.709 [main] ERROR - Entry Failed
+14:19:46.314 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
+14:19:46.719 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
+14:19:47.345 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
+14:19:47.625 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
+14:19:47.656 [main] ERROR - Entry Failed
+14:19:47.949 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
+14:19:48.265 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
+14:19:48.790 [main] INFO  - Hovered on Used-Cars Menu
+14:19:52.305 [main] INFO  - Clicked on Used-Cars-Chennai Menu
+14:19:52.364 [main] INFO  - Redirection to Used cars Page Not Sucessfull
+14:19:52.383 [main] INFO  - **********************USED CAR PAGE*********************
+14:19:52.627 [main] INFO  - Load-More got Clicked
+14:19:52.952 [main] INFO  - Ford Ecosport ---> Entry Sucess
+14:19:53.043 [main] INFO  - Maruti Swift ---> Entry Sucess
+14:19:53.131 [main] INFO  - KIA SELTOS ---> Entry Sucess
+14:19:53.220 [main] INFO  - Hyundai Creta ---> Entry Sucess
+14:19:53.515 [main] INFO  - user got clicked
+14:19:53.634 [main] INFO  - sigin in pop displayed
+14:19:57.244 [main] INFO  - clicked on the sigin in Button
+14:19:57.294 [main] INFO  - ***********************Login Page***********************
+14:19:57.708 [main] INFO  - Email got Entered
+14:19:58.341 [main] INFO  - Clicked on Next Button
+14:19:58.936 [main] INFO  - Error message capture was successful
+14:19:58.981 [main] INFO  - ***********************Login Page***********************
+14:19:59.516 [main] INFO  - Email got Entered
+14:19:59.718 [main] INFO  - Clicked on Next Button
+14:20:00.269 [main] INFO  - Error message capture was successful
+14:20:00.325 [main] INFO  - ***********************Login Page***********************
+14:20:00.838 [main] INFO  - Email got Entered
+14:20:01.004 [main] INFO  - Clicked on Next Button
+14:20:01.487 [main] INFO  - Error message capture was successful
+14:20:01.537 [main] INFO  - ***********************Login Page***********************
+14:20:01.990 [main] INFO  - Email got Entered
+14:20:02.162 [main] INFO  - Clicked on Next Button
+14:20:02.709 [main] INFO  - Error message capture was successful
+14:20:02.758 [main] INFO  - ***********************Login Page***********************
+14:20:03.281 [main] INFO  - Email got Entered
+14:20:03.467 [main] INFO  - Clicked on Next Button
+14:20:03.996 [main] INFO  - Error message capture was successful
+14:20:04.041 [main] INFO  - ***********************Login Page***********************
+14:20:04.538 [main] INFO  - Email got Entered
+14:20:04.732 [main] INFO  - Clicked on Next Button
+14:20:05.335 [main] INFO  - Error message capture was successful
+14:20:05.371 [main] INFO  - ***********************Login Page***********************
+14:20:05.859 [main] INFO  - Email got Entered
+14:20:06.041 [main] INFO  - Clicked on Next Button
+14:20:06.601 [main] INFO  - Error message capture was successful
+14:20:06.648 [main] INFO  - ***********************Login Page***********************
+14:20:07.163 [main] INFO  - Email got Entered
+14:20:07.337 [main] INFO  - Clicked on Next Button
+14:20:07.897 [main] INFO  - Error message capture was successful
+14:20:07.940 [main] INFO  - ***********************Login Page***********************
+14:20:08.457 [main] INFO  - Email got Entered
+14:20:08.717 [main] INFO  - Clicked on Next Button
+14:20:09.485 [main] INFO  - Error message capture was successful
+14:20:39.497 [main] INFO  - Driver is created suceesfully
+14:20:42.741 [main] INFO  - *******************HOME PAGE*********************
+14:20:52.989 [main] ERROR - Push Notification is not displayed
+14:20:53.799 [main] INFO  - Hovered on Bike Menu
+14:20:55.543 [main] INFO  - Cilcked on Upcoming Bikes
+14:20:55.601 [main] INFO  - Navigate to Next Page is Sucessful
+14:20:55.636 [main] INFO  - ********************UPCOMING BIKES**********************
+14:20:56.165 [main] INFO  - selected the choose brand
+14:20:56.461 [main] INFO  - Brand is selected
+14:21:08.888 [main] INFO  - Bikes is Displayed
+14:21:09.221 [main] INFO  - Honda CBR300R is displayed
+14:21:09.256 [main] INFO  - Honda CBR1000R is displayed
+14:21:09.291 [main] INFO  - Honda CB500F is displayed
+14:21:09.320 [main] INFO  - Honda Rebel 500 is displayed
+14:21:09.355 [main] INFO  - Honda CBR500R is displayed
+14:21:09.385 [main] INFO  - Honda CRF190L is displayed
+14:21:09.416 [main] INFO  - Honda CBR150R is displayed
+14:21:09.448 [main] INFO  - Honda NT1100 is displayed
+14:21:09.480 [main] INFO  - Honda Rebel 300 is displayed
+14:21:09.517 [main] INFO  - Honda Rebel 1100 is displayed
+14:21:09.548 [main] INFO  - Honda NX200 is displayed
+14:21:09.583 [main] INFO  - Honda CRF300L is displayed
+14:21:09.619 [main] INFO  - Honda Hornet is displayed
+14:21:09.658 [main] INFO  - Honda XRE 300 is displayed
+14:21:09.695 [main] INFO  - Honda Hawk 11 is displayed
+14:21:09.728 [main] INFO  - Honda CB350 Cafe Racer is displayed
+14:21:09.761 [main] INFO  - Honda CRF300 Rally is displayed
+14:21:09.792 [main] INFO  - Bikes are visible
+14:21:09.811 [main] INFO  - 4.00 price is set
+14:21:10.559 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
+14:21:10.622 [main] ERROR - Entry Failed
+14:21:10.689 [main] ERROR - Entry Failed
+14:21:10.739 [main] ERROR - Entry Failed
+14:21:10.789 [main] ERROR - Entry Failed
+14:21:11.195 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
+14:21:11.651 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
+14:21:12.105 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
+14:21:12.601 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
+14:21:12.669 [main] ERROR - Entry Failed
+14:21:13.188 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
+14:21:13.539 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
+14:21:14.051 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
+14:21:14.384 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
+14:21:14.429 [main] ERROR - Entry Failed
+14:21:14.844 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
+14:21:15.392 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
+14:21:16.002 [main] INFO  - Hovered on Used-Cars Menu
+14:21:19.554 [main] INFO  - Clicked on Used-Cars-Chennai Menu
+14:21:19.623 [main] INFO  - Redirection to Used cars Page Not Sucessfull
+14:21:19.641 [main] INFO  - **********************USED CAR PAGE*********************
+14:21:19.917 [main] INFO  - Load-More got Clicked
+14:21:20.425 [main] INFO  - Ford Ecosport ---> Entry Sucess
+14:21:20.657 [main] INFO  - Maruti Swift ---> Entry Sucess
+14:21:20.887 [main] INFO  - KIA SELTOS ---> Entry Sucess
+14:21:21.045 [main] INFO  - Hyundai Creta ---> Entry Sucess
+14:21:21.531 [main] INFO  - user got clicked
+14:21:22.076 [main] INFO  - sigin in pop displayed
+14:21:25.764 [main] INFO  - clicked on the sigin in Button
+14:21:25.801 [main] INFO  - ***********************Login Page***********************
+14:21:26.607 [main] INFO  - Email got Entered
+14:21:27.596 [main] INFO  - Clicked on Next Button
+14:21:28.351 [main] INFO  - Error message capture was successful
+14:21:28.402 [main] INFO  - ***********************Login Page***********************
+14:21:29.217 [main] INFO  - Email got Entered
+14:21:29.410 [main] INFO  - Clicked on Next Button
+14:21:30.009 [main] INFO  - Error message capture was successful
+14:21:30.059 [main] INFO  - ***********************Login Page***********************
+14:21:30.549 [main] INFO  - Email got Entered
+14:21:30.713 [main] INFO  - Clicked on Next Button
+14:21:31.227 [main] INFO  - Error message capture was successful
+14:21:31.283 [main] INFO  - ***********************Login Page***********************
+14:21:31.810 [main] INFO  - Email got Entered
+14:21:31.988 [main] INFO  - Clicked on Next Button
+14:21:32.478 [main] INFO  - Error message capture was successful
+14:21:32.519 [main] INFO  - ***********************Login Page***********************
+14:21:32.995 [main] INFO  - Email got Entered
+14:21:33.177 [main] INFO  - Clicked on Next Button
+14:21:33.827 [main] INFO  - Error message capture was successful
+14:21:33.873 [main] INFO  - ***********************Login Page***********************
+14:21:34.384 [main] INFO  - Email got Entered
+14:21:34.564 [main] INFO  - Clicked on Next Button
+14:21:35.057 [main] INFO  - Error message capture was successful
+14:21:35.104 [main] INFO  - ***********************Login Page***********************
+14:21:35.575 [main] INFO  - Email got Entered
+14:21:35.747 [main] INFO  - Clicked on Next Button
+14:21:36.241 [main] INFO  - Error message capture was successful
+14:21:36.290 [main] INFO  - ***********************Login Page***********************
+14:21:36.796 [main] INFO  - Email got Entered
+14:21:36.956 [main] INFO  - Clicked on Next Button
+14:21:37.524 [main] INFO  - Error message capture was successful
+14:21:37.565 [main] INFO  - ***********************Login Page***********************
+14:21:38.017 [main] INFO  - Email got Entered
+14:21:38.206 [main] INFO  - Clicked on Next Button
+14:21:38.735 [main] INFO  - Error message capture was successful
+14:22:20.587 [main] INFO  - Driver is created suceesfully
+14:22:24.552 [main] INFO  - *******************HOME PAGE*********************
+14:22:34.626 [main] ERROR - Push Notification is not displayed
+14:22:35.377 [main] INFO  - Hovered on Bike Menu
+14:22:37.153 [main] INFO  - Cilcked on Upcoming Bikes
+14:22:37.209 [main] INFO  - Navigate to Next Page is Sucessful
+14:22:37.240 [main] INFO  - ********************UPCOMING BIKES**********************
+14:22:37.950 [main] INFO  - selected the choose brand
+14:22:38.552 [main] INFO  - Brand is selected
+14:22:51.075 [main] INFO  - Bikes is Displayed
+14:22:51.545 [main] INFO  - Honda CBR300R is displayed
+14:22:51.586 [main] INFO  - Honda CBR1000R is displayed
+14:22:51.633 [main] INFO  - Honda CB500F is displayed
+14:22:51.678 [main] INFO  - Honda Rebel 500 is displayed
+14:22:51.723 [main] INFO  - Honda CBR500R is displayed
+14:22:51.758 [main] INFO  - Honda CRF190L is displayed
+14:22:51.793 [main] INFO  - Honda CBR150R is displayed
+14:22:51.831 [main] INFO  - Honda NT1100 is displayed
+14:22:51.869 [main] INFO  - Honda Rebel 300 is displayed
+14:22:51.904 [main] INFO  - Honda Rebel 1100 is displayed
+14:22:51.946 [main] INFO  - Honda NX200 is displayed
+14:22:51.981 [main] INFO  - Honda CRF300L is displayed
+14:22:52.019 [main] INFO  - Honda Hornet is displayed
+14:22:52.058 [main] INFO  - Honda XRE 300 is displayed
+14:22:52.095 [main] INFO  - Honda Hawk 11 is displayed
+14:22:52.124 [main] INFO  - Honda CB350 Cafe Racer is displayed
+14:22:52.152 [main] INFO  - Honda CRF300 Rally is displayed
+14:22:52.183 [main] INFO  - Bikes are visible
+14:22:52.203 [main] INFO  - 4.00 price is set
+14:22:53.026 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
+14:22:53.136 [main] ERROR - Entry Failed
+14:22:53.187 [main] ERROR - Entry Failed
+14:22:53.227 [main] ERROR - Entry Failed
+14:22:53.266 [main] ERROR - Entry Failed
+14:22:53.671 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
+14:22:54.057 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
+14:22:54.461 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
+14:22:54.884 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
+14:22:54.975 [main] ERROR - Entry Failed
+14:22:55.426 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
+14:22:55.907 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
+14:22:56.452 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
+14:22:56.765 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
+14:22:56.805 [main] ERROR - Entry Failed
+14:22:57.206 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
+14:22:57.643 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
+14:22:58.164 [main] INFO  - Hovered on Used-Cars Menu
+14:23:01.761 [main] INFO  - Clicked on Used-Cars-Chennai Menu
+14:23:01.827 [main] INFO  - Redirection to Used cars Page Not Sucessfull
+14:23:01.842 [main] INFO  - **********************USED CAR PAGE*********************
+14:23:02.090 [main] INFO  - Load-More got Clicked
+14:23:02.547 [main] INFO  - Ford Ecosport ---> Entry Sucess
+14:23:02.776 [main] INFO  - Maruti Swift ---> Entry Sucess
+14:23:03.004 [main] INFO  - KIA SELTOS ---> Entry Sucess
+14:23:03.166 [main] INFO  - Hyundai Creta ---> Entry Sucess
+14:23:03.690 [main] INFO  - user got clicked
+14:23:04.012 [main] INFO  - sigin in pop displayed
+14:23:07.834 [main] INFO  - clicked on the sigin in Button
+14:23:07.879 [main] INFO  - ***********************Login Page***********************
+14:23:08.421 [main] INFO  - Email got Entered
+14:23:09.283 [main] INFO  - Clicked on Next Button
+14:23:10.045 [main] INFO  - Error message capture was successful
+14:23:10.108 [main] INFO  - ***********************Login Page***********************
+14:23:10.837 [main] INFO  - Email got Entered
+14:23:11.233 [main] INFO  - Clicked on Next Button
+14:23:11.797 [main] INFO  - Error message capture was successful
+14:23:11.860 [main] INFO  - ***********************Login Page***********************
+14:23:12.501 [main] INFO  - Email got Entered
+14:23:12.686 [main] INFO  - Clicked on Next Button
+14:23:13.225 [main] INFO  - Error message capture was successful
+14:23:13.284 [main] INFO  - ***********************Login Page***********************
+14:23:13.860 [main] INFO  - Email got Entered
+14:23:14.026 [main] INFO  - Clicked on Next Button
+14:23:14.614 [main] INFO  - Error message capture was successful
+14:23:14.659 [main] INFO  - ***********************Login Page***********************
+14:23:15.208 [main] INFO  - Email got Entered
+14:23:15.392 [main] INFO  - Clicked on Next Button
+14:23:15.863 [main] INFO  - Error message capture was successful
+14:23:15.899 [main] INFO  - ***********************Login Page***********************
+14:23:16.431 [main] INFO  - Email got Entered
+14:23:16.620 [main] INFO  - Clicked on Next Button
+14:23:17.191 [main] INFO  - Error message capture was successful
+14:23:17.230 [main] INFO  - ***********************Login Page***********************
+14:23:17.757 [main] INFO  - Email got Entered
+14:23:17.948 [main] INFO  - Clicked on Next Button
+14:23:18.489 [main] INFO  - Error message capture was successful
+14:23:18.565 [main] INFO  - ***********************Login Page***********************
+14:23:19.308 [main] INFO  - Email got Entered
+14:23:19.492 [main] INFO  - Clicked on Next Button
+14:23:20.116 [main] INFO  - Error message capture was successful
+14:23:20.168 [main] INFO  - ***********************Login Page***********************
+14:23:20.650 [main] INFO  - Email got Entered
+14:23:20.848 [main] INFO  - Clicked on Next Button
+14:23:21.363 [main] INFO  - Error message capture was successful
+14:26:29.118 [main] INFO  - Driver is created suceesfully
+14:26:32.520 [main] INFO  - *******************HOME PAGE*********************
+14:26:42.597 [main] ERROR - Push Notification is not displayed
+14:26:43.457 [main] INFO  - Hovered on Bike Menu
+14:26:45.212 [main] INFO  - Cilcked on Upcoming Bikes
+14:26:45.261 [main] INFO  - Navigate to Next Page is Sucessful
+14:26:45.291 [main] INFO  - ********************UPCOMING BIKES**********************
+14:26:45.943 [main] INFO  - selected the choose brand
+14:26:46.416 [main] INFO  - Brand is selected
+14:26:58.959 [main] INFO  - Bikes is Displayed
+14:26:59.322 [main] INFO  - Honda CBR300R is displayed
+14:26:59.351 [main] INFO  - Honda CBR1000R is displayed
+14:26:59.378 [main] INFO  - Honda CB500F is displayed
+14:26:59.403 [main] INFO  - Honda Rebel 500 is displayed
+14:26:59.429 [main] INFO  - Honda CBR500R is displayed
+14:26:59.457 [main] INFO  - Honda CRF190L is displayed
+14:26:59.486 [main] INFO  - Honda CBR150R is displayed
+14:26:59.511 [main] INFO  - Honda NT1100 is displayed
+14:26:59.539 [main] INFO  - Honda Rebel 300 is displayed
+14:26:59.567 [main] INFO  - Honda Rebel 1100 is displayed
+14:26:59.593 [main] INFO  - Honda NX200 is displayed
+14:26:59.615 [main] INFO  - Honda CRF300L is displayed
+14:26:59.640 [main] INFO  - Honda Hornet is displayed
+14:26:59.660 [main] INFO  - Honda XRE 300 is displayed
+14:26:59.685 [main] INFO  - Honda Hawk 11 is displayed
+14:26:59.712 [main] INFO  - Honda CB350 Cafe Racer is displayed
+14:26:59.749 [main] INFO  - Honda CRF300 Rally is displayed
+14:26:59.774 [main] INFO  - Bikes are visible
+14:26:59.788 [main] INFO  - 4.00 price is set
+14:27:00.381 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
+14:27:00.417 [main] ERROR - Entry Failed
+14:27:00.446 [main] ERROR - Entry Failed
+14:27:00.475 [main] ERROR - Entry Failed
+14:27:00.508 [main] ERROR - Entry Failed
+14:27:00.794 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
+14:27:01.118 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
+14:27:01.595 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
+14:27:01.927 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
+14:27:01.978 [main] ERROR - Entry Failed
+14:27:02.332 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
+14:27:02.608 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
+14:27:02.934 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
+14:27:03.258 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
+14:27:03.290 [main] ERROR - Entry Failed
+14:27:03.591 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
+14:27:03.900 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
+14:27:04.424 [main] INFO  - Hovered on Used-Cars Menu
+14:27:07.841 [main] INFO  - Clicked on Used-Cars-Chennai Menu
+14:27:07.896 [main] INFO  - Redirection to Used cars Page Not Sucessfull
+14:27:07.912 [main] INFO  - **********************USED CAR PAGE*********************
+14:27:08.137 [main] INFO  - Load-More got Clicked
+14:27:08.551 [main] INFO  - Ford Ecosport ---> Entry Sucess
+14:27:08.697 [main] INFO  - Maruti Swift ---> Entry Sucess
+14:27:08.833 [main] INFO  - KIA SELTOS ---> Entry Sucess
+14:27:08.943 [main] INFO  - Hyundai Creta ---> Entry Sucess
+14:27:09.394 [main] INFO  - user got clicked
+14:27:09.533 [main] INFO  - sigin in pop displayed
+14:27:13.203 [main] INFO  - clicked on the sigin in Button
+14:27:13.236 [main] INFO  - ***********************Login Page***********************
+14:27:13.854 [main] INFO  - Email got Entered
+14:27:14.577 [main] INFO  - Clicked on Next Button
+14:27:27.728 [main] ERROR - Unable to capture Error message
+14:27:27.736 [main] INFO  - ***********************Login Page***********************
+14:27:27.793 [main] INFO  - ***********************Login Page***********************
+14:27:27.807 [main] INFO  - ***********************Login Page***********************
+14:27:27.824 [main] INFO  - ***********************Login Page***********************
+14:27:27.840 [main] INFO  - ***********************Login Page***********************
+14:27:27.857 [main] INFO  - ***********************Login Page***********************
+14:27:27.878 [main] INFO  - ***********************Login Page***********************
+14:27:27.900 [main] INFO  - ***********************Login Page***********************
+14:27:53.727 [main] INFO  - Driver is created suceesfully
+14:27:56.953 [main] INFO  - *******************HOME PAGE*********************
+14:28:07.020 [main] ERROR - Push Notification is not displayed
+14:28:07.827 [main] INFO  - Hovered on Bike Menu
+14:28:09.591 [main] INFO  - Cilcked on Upcoming Bikes
+14:28:09.631 [main] INFO  - Navigate to Next Page is Sucessful
+14:28:09.649 [main] INFO  - ********************UPCOMING BIKES**********************
+14:28:10.125 [main] INFO  - selected the choose brand
+14:28:10.412 [main] INFO  - Brand is selected
+14:28:22.911 [main] INFO  - Bikes is Displayed
+14:28:23.191 [main] INFO  - Honda CBR300R is displayed
+14:28:23.215 [main] INFO  - Honda CBR1000R is displayed
+14:28:23.243 [main] INFO  - Honda CB500F is displayed
+14:28:23.270 [main] INFO  - Honda Rebel 500 is displayed
+14:28:23.294 [main] INFO  - Honda CBR500R is displayed
+14:28:23.317 [main] INFO  - Honda CRF190L is displayed
+14:28:23.340 [main] INFO  - Honda CBR150R is displayed
+14:28:23.362 [main] INFO  - Honda NT1100 is displayed
+14:28:23.384 [main] INFO  - Honda Rebel 300 is displayed
+14:28:23.408 [main] INFO  - Honda Rebel 1100 is displayed
+14:28:23.439 [main] INFO  - Honda NX200 is displayed
+14:28:23.465 [main] INFO  - Honda CRF300L is displayed
+14:28:23.493 [main] INFO  - Honda Hornet is displayed
+14:28:23.523 [main] INFO  - Honda XRE 300 is displayed
+14:28:23.552 [main] INFO  - Honda Hawk 11 is displayed
+14:28:23.581 [main] INFO  - Honda CB350 Cafe Racer is displayed
+14:28:23.602 [main] INFO  - Honda CRF300 Rally is displayed
+14:28:23.626 [main] INFO  - Bikes are visible
+14:28:23.643 [main] INFO  - 4.00 price is set
+14:28:24.186 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
+14:28:24.220 [main] ERROR - Entry Failed
+14:28:24.251 [main] ERROR - Entry Failed
+14:28:24.281 [main] ERROR - Entry Failed
+14:28:24.313 [main] ERROR - Entry Failed
+14:28:24.640 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
+14:28:24.919 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
+14:28:25.218 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
+14:28:25.509 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
+14:28:25.550 [main] ERROR - Entry Failed
+14:28:25.911 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
+14:28:26.244 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
+14:28:26.585 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
+14:28:26.880 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
+14:28:26.918 [main] ERROR - Entry Failed
+14:28:27.208 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
+14:28:27.583 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
+14:28:28.091 [main] INFO  - Hovered on Used-Cars Menu
+14:28:31.494 [main] INFO  - Clicked on Used-Cars-Chennai Menu
+14:28:31.550 [main] INFO  - Redirection to Used cars Page Not Sucessfull
+14:28:31.569 [main] INFO  - **********************USED CAR PAGE*********************
+14:28:31.866 [main] INFO  - Load-More got Clicked
+14:28:32.394 [main] INFO  - Ford Ecosport ---> Entry Sucess
+14:28:32.538 [main] INFO  - Maruti Swift ---> Entry Sucess
+14:28:32.672 [main] INFO  - KIA SELTOS ---> Entry Sucess
+14:28:32.793 [main] INFO  - Hyundai Creta ---> Entry Sucess
+14:28:33.206 [main] INFO  - user got clicked
+14:28:33.378 [main] INFO  - sigin in pop displayed
+14:28:37.144 [main] INFO  - clicked on the sigin in Button
+14:28:37.175 [main] INFO  - ***********************Login Page***********************
+14:28:37.734 [main] INFO  - Email got Entered
+14:28:38.371 [main] INFO  - Clicked on Next Button
+14:28:38.936 [main] INFO  - Error message capture was successful
+14:28:38.975 [main] INFO  - ***********************Login Page***********************
+14:28:39.527 [main] INFO  - Email got Entered
+14:28:39.679 [main] INFO  - Clicked on Next Button
+14:28:40.124 [main] INFO  - Error message capture was successful
+14:28:40.160 [main] INFO  - ***********************Login Page***********************
+14:28:40.623 [main] INFO  - Email got Entered
+14:28:40.777 [main] INFO  - Clicked on Next Button
+14:28:41.382 [main] INFO  - Error message capture was successful
+14:28:41.436 [main] INFO  - ***********************Login Page***********************
+14:28:41.979 [main] INFO  - Email got Entered
+14:28:42.142 [main] INFO  - Clicked on Next Button
+14:28:42.698 [main] INFO  - Error message capture was successful
+14:28:42.740 [main] INFO  - ***********************Login Page***********************
+14:28:43.335 [main] INFO  - Email got Entered
+14:28:43.513 [main] INFO  - Clicked on Next Button
+14:28:44.013 [main] INFO  - Error message capture was successful
+14:28:44.043 [main] INFO  - ***********************Login Page***********************
+14:28:44.541 [main] INFO  - Email got Entered
+14:28:44.713 [main] INFO  - Clicked on Next Button
+14:28:45.237 [main] INFO  - Error message capture was successful
+14:28:45.275 [main] INFO  - ***********************Login Page***********************
+14:28:45.780 [main] INFO  - Email got Entered
+14:28:45.986 [main] INFO  - Clicked on Next Button
+14:28:46.464 [main] INFO  - Error message capture was successful
+14:28:46.497 [main] INFO  - ***********************Login Page***********************
+14:28:46.899 [main] INFO  - Email got Entered
+14:28:47.031 [main] INFO  - Clicked on Next Button
+14:28:47.584 [main] INFO  - Error message capture was successful
+14:28:47.630 [main] INFO  - ***********************Login Page***********************
+14:28:48.157 [main] INFO  - Email got Entered
+14:28:48.351 [main] INFO  - Clicked on Next Button
+14:28:48.842 [main] INFO  - Error message capture was successful
+14:32:56.079 [main] INFO  - Driver is created suceesfully
+14:33:00.226 [main] INFO  - *******************HOME PAGE*********************
+14:33:10.302 [main] ERROR - Push Notification is not displayed
+14:33:10.930 [main] INFO  - Hovered on Bike Menu
+14:33:12.508 [main] INFO  - Cilcked on Upcoming Bikes
+14:33:12.577 [main] INFO  - Navigate to Next Page is Sucessful
+14:33:12.641 [main] INFO  - ********************UPCOMING BIKES**********************
+14:33:13.197 [main] INFO  - selected the choose brand
+14:33:13.402 [main] INFO  - Brand is selected
+14:33:25.869 [main] INFO  - Bikes is Displayed
+14:33:26.156 [main] INFO  - Honda CBR300R is displayed
+14:33:26.191 [main] INFO  - Honda CBR1000R is displayed
+14:33:26.227 [main] INFO  - Honda CB500F is displayed
+14:33:26.257 [main] INFO  - Honda Rebel 500 is displayed
+14:33:26.292 [main] INFO  - Honda CBR500R is displayed
+14:33:26.323 [main] INFO  - Honda CRF190L is displayed
+14:33:26.360 [main] INFO  - Honda CBR150R is displayed
+14:33:26.392 [main] INFO  - Honda NT1100 is displayed
+14:33:26.425 [main] INFO  - Honda Rebel 300 is displayed
+14:33:26.458 [main] INFO  - Honda Rebel 1100 is displayed
+14:33:26.493 [main] INFO  - Honda NX200 is displayed
+14:33:26.523 [main] INFO  - Honda CRF300L is displayed
+14:33:26.556 [main] INFO  - Honda Hornet is displayed
+14:33:26.601 [main] INFO  - Honda XRE 300 is displayed
+14:33:26.639 [main] INFO  - Honda Hawk 11 is displayed
+14:33:26.673 [main] INFO  - Honda CB350 Cafe Racer is displayed
+14:33:26.709 [main] INFO  - Honda CRF300 Rally is displayed
+14:33:26.739 [main] INFO  - Bikes are visible
+14:33:26.757 [main] INFO  - 4.00 price is set
+14:33:27.521 [main] INFO  - Honda CBR300R :- ₹2.00 - ₹ 2.30 ---> Entry Successful
+14:33:27.584 [main] ERROR - Entry Failed
+14:33:27.642 [main] ERROR - Entry Failed
+14:33:27.684 [main] ERROR - Entry Failed
+14:33:27.720 [main] ERROR - Entry Failed
+14:33:28.039 [main] INFO  - Honda CRF190L :- ₹1.98 ---> Entry Successful
+14:33:28.377 [main] INFO  - Honda CBR150R :- ₹1.70 ---> Entry Successful
+14:33:28.791 [main] INFO  - Honda NT1100 :- ₹1.70 ---> Entry Successful
+14:33:29.118 [main] INFO  - Honda Rebel 300 :- ₹2.30 ---> Entry Successful
+14:33:29.193 [main] ERROR - Entry Failed
+14:33:29.719 [main] INFO  - Honda NX200 :- ₹1.20 ---> Entry Successful
+14:33:30.168 [main] INFO  - Honda CRF300L :- ₹3.00 ---> Entry Successful
+14:33:30.539 [main] INFO  - Honda Hornet :- ₹2.50 ---> Entry Successful
+14:33:30.925 [main] INFO  - Honda XRE 300 :- ₹3.00 ---> Entry Successful
+14:33:30.976 [main] ERROR - Entry Failed
+14:33:31.298 [main] INFO  - Honda CB350 Cafe Racer :- ₹2.20 - ₹ 2.30 ---> Entry Successful
+14:33:31.734 [main] INFO  - Honda CRF300 Rally :- ₹3.50 ---> Entry Successful
+14:33:32.244 [main] INFO  - Hovered on Used-Cars Menu
+14:33:35.805 [main] INFO  - Clicked on Used-Cars-Chennai Menu
+14:33:35.857 [main] INFO  - Redirection to Used cars Page Not Sucessfull
+14:33:35.896 [main] INFO  - **********************USED CAR PAGE*********************
+14:33:36.136 [main] INFO  - Load-More got Clicked
+14:33:36.501 [main] INFO  - Ford Ecosport ---> Entry Sucess
+14:33:36.665 [main] INFO  - Maruti Swift ---> Entry Sucess
+14:33:36.807 [main] INFO  - KIA SELTOS ---> Entry Sucess
+14:33:36.942 [main] INFO  - Hyundai Creta ---> Entry Sucess
+14:33:37.383 [main] INFO  - user got clicked
+14:33:37.582 [main] INFO  - sigin in pop displayed
+14:33:41.318 [main] INFO  - clicked on the sigin in Button
+14:33:41.372 [main] INFO  - ***********************Login Page***********************
+14:33:41.971 [main] INFO  - Email got Entered
+14:33:42.796 [main] INFO  - Clicked on Next Button
+14:33:43.476 [main] INFO  - Error message capture was successful
+14:33:43.535 [main] INFO  - ***********************Login Page***********************
+14:33:44.157 [main] INFO  - Email got Entered
+14:33:44.326 [main] INFO  - Clicked on Next Button
+14:33:44.899 [main] INFO  - Error message capture was successful
+14:33:44.950 [main] INFO  - ***********************Login Page***********************
+14:33:45.404 [main] INFO  - Email got Entered
+14:33:45.577 [main] INFO  - Clicked on Next Button
+14:33:46.112 [main] INFO  - Error message capture was successful
+14:33:46.158 [main] INFO  - ***********************Login Page***********************
+14:33:46.597 [main] INFO  - Email got Entered
+14:33:46.740 [main] INFO  - Clicked on Next Button
+14:33:47.209 [main] INFO  - Error message capture was successful
+14:33:47.239 [main] INFO  - ***********************Login Page***********************
+14:33:47.630 [main] INFO  - Email got Entered
+14:33:47.759 [main] INFO  - Clicked on Next Button
+14:33:48.242 [main] INFO  - Error message capture was successful
+14:33:48.274 [main] INFO  - ***********************Login Page***********************
+14:33:48.767 [main] INFO  - Email got Entered
+14:33:48.958 [main] INFO  - Clicked on Next Button
+14:33:49.429 [main] INFO  - Error message capture was successful
+14:33:49.469 [main] INFO  - ***********************Login Page***********************
+14:33:49.932 [main] INFO  - Email got Entered
+14:33:50.129 [main] INFO  - Clicked on Next Button
+14:33:50.656 [main] INFO  - Error message capture was successful
+14:33:50.709 [main] INFO  - ***********************Login Page***********************
+14:33:51.231 [main] INFO  - Email got Entered
+14:33:51.419 [main] INFO  - Clicked on Next Button
+14:33:51.967 [main] INFO  - Error message capture was successful
+14:33:52.007 [main] INFO  - ***********************Login Page***********************
+14:33:52.520 [main] INFO  - Email got Entered
+14:33:52.695 [main] INFO  - Clicked on Next Button
+14:33:53.261 [main] INFO  - Error message capture was successful

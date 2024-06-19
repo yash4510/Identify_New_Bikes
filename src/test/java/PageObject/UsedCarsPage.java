@@ -83,13 +83,15 @@ public class UsedCarsPage extends BasePage {
 	
 	//waiting for the login popup
 	public boolean waitingForPopup() {
-		wait.until(ExpectedConditions.visibilityOf(sigin));
 		try {
+			wait.until(ExpectedConditions.visibilityOf(sigin));
 			if(sigin.isDisplayed()) {
 				return true;
 			}
 		}catch (Exception e) {
-			
+			driver.navigate().refresh();
+	        loginUser();
+	        waitingForPopup();
 		}
 		return false;
 	}
@@ -105,11 +107,7 @@ public class UsedCarsPage extends BasePage {
 			Thread.sleep(3000);
 			return true;
 		} catch (Exception e) {
-			  driver.navigate().refresh();
-		        loginUser();
-		        waitingForPopup();
-		        clickOnSignIn();
-		        switchWindows();
+			  
 		}
 		return false;
 	}
@@ -126,6 +124,10 @@ public class UsedCarsPage extends BasePage {
 	        System.out.println("Window got switched");
 	    } else {
 	        System.out.println("No child window to switch to... retrying");
+	        loginUser();
+	        waitingForPopup();
+	        clickOnSignIn();
+	        switchWindows();
 	      
 	    }
 	}
